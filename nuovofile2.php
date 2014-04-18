@@ -1,3 +1,7 @@
-include ("filed.php");
-include ("filee.php");
-include ("filef.php");
+<?php
+
+include "filed.php";
+include "filee.php";
+include "filef.php";
+
+?>
